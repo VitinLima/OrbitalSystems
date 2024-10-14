@@ -1,0 +1,18 @@
+Requirements:
+
+Symbolic package:
+-In octave command window:
+>> pkg install -forge symbolic
+
+Sympy:
+-with Pip:
+>> pip install sympy
+-or Conda/miniconda:
+>> conda install sympy
+
+change PYTHON environment on octave command window:
+>> setenv PYTHON /path/to/your/python/executable
+ex:
+>> setenv PYTHON python3
+ex:
+>> setenv PYTHON /usr/name/miniconda3/bin/python3
